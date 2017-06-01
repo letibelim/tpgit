@@ -12,7 +12,7 @@ body{
 ** style dev front-end
 **/
 #icone1{
-	display:inline-block;
+	
 	padding-right: 
 }
 /**
@@ -57,3 +57,8 @@ body{
 
 }
 
+.icone{
+	display: none;
+
+
+}
