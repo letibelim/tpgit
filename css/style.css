@@ -19,7 +19,7 @@ main{
 	height: 141px;
 	margin-left: 391px;
 	margin-top: 306px;
-	visibility: hidden;
+	opacity: 0;
 }
 /**
 ** style dev front-end
