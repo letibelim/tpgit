@@ -3,17 +3,26 @@
 **/
 
 body{
-	margin: 0;
-	background: url("./img/vide.jpg") no-repeat cover;
+	margin: 0 ;
+	background: url("../img/vide.jpg") no-repeat;
+	width: 1080px;
+	height: 1152px;
 }
 
+main{
+	margin: 0;
+}
 
+img{
+	
+}
 /**
 ** style dev front-end
 **/
-#icone1{
-	display:inline-block;
-	padding-right: 
+#icone1{	
+	position: absolute;
+	margin-left: 240px;
+	margin-top: 26px;
 }
 /**
 **	icones technologies front-end
@@ -21,39 +30,57 @@ body{
 
 #icone2{
 
+	position: absolute;
+	margin-left: 652px;
+	margin-top: 305px;
 }
 
 #icone3{
-
+position: absolute;
+	margin-left: 740px;
+	margin-top: 305px;
 }
 
 #icone4{
-
+position: absolute;
+	margin-left: 823px;
+	margin-top: 301px;
 }
 
 /**
 ** style dev back-end
 **/
 #icone5{
-
+position: absolute;
+	margin-left: 354px;
+	margin-top: 593px;
 }
 /**
 **	icones technologies back-end
 **/
 /* PHP */
 #icone6{
-
+	position: absolute;
+	margin-left: 392px;
+	margin-top: 671px;
 }
 /* MySQL */
 #icone7{
-
+position: absolute;
+	margin-left: 412px;
+	margin-top: 784px;
 }
 /* Frameworks */
 #icone8{
-
+position: absolute;
+	margin-left: 450px;
+	margin-top: 860px;
 }
 /* serveurs */
-#icone9{
-
+#icone9{	
+	position: absolute;
+	margin-left: 510px;
+	margin-top: 208px;	
+	
 }
 
