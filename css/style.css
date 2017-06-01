@@ -1,0 +1,59 @@
+/***
+**	STYLES GLOBAUX
+**/
+
+body{
+	margin: 0;
+	background: url("./img/vide.jpg") no-repeat cover;
+}
+
+
+/**
+** style dev front-end
+**/
+#icone1{
+	display:inline-block;
+	padding-right: 
+}
+/**
+**	icones technologies front-end
+**/
+
+#icone2{
+
+}
+
+#icone3{
+
+}
+
+#icone4{
+
+}
+
+/**
+** style dev back-end
+**/
+#icone5{
+
+}
+/**
+**	icones technologies back-end
+**/
+/* PHP */
+#icone6{
+
+}
+/* MySQL */
+#icone7{
+
+}
+/* Frameworks */
+#icone8{
+
+}
+/* serveurs */
+#icone9{
+
+}
+
