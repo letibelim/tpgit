@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 var iconNb = 1
 
 $('#bouton').click(function(event) {
